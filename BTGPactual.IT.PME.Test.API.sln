@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTGPactual.IT.PME.Test.API", "BTGPactual.IT.PME.Test.API\BTGPactual.IT.PME.Test.API.csproj", "{43BC5251-1981-481B-A05F-FC82CC81AABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTGPactual.IT.PME.Test.TEST", "BTGPactual.IT.PME.Test.TEST\BTGPactual.IT.PME.Test.TEST.csproj", "{53010530-7CAA-4DC6-9515-5491EEC9D2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BC5251-1981-481B-A05F-FC82CC81AABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BC5251-1981-481B-A05F-FC82CC81AABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BC5251-1981-481B-A05F-FC82CC81AABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BC5251-1981-481B-A05F-FC82CC81AABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53010530-7CAA-4DC6-9515-5491EEC9D2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53010530-7CAA-4DC6-9515-5491EEC9D2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53010530-7CAA-4DC6-9515-5491EEC9D2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53010530-7CAA-4DC6-9515-5491EEC9D2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDB852D-9C18-45F2-B0C4-5896FD9B5E7F}
+	EndGlobalSection
+EndGlobal
